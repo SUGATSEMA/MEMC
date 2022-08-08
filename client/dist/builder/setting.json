@@ -1,0 +1,9 @@
+{
+  "devEnv": {
+    "prod": {
+      "portalUrl": "https://sisdia.df.gov.br/portal",
+      "clientId": "jitF6sx1yJldR88p",
+      "isWebTier": false
+    }
+  }
+}
